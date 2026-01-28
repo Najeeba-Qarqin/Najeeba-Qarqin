@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Najeeba Qarqin 👋
 
-<!--
-**Najeeba-Qarqin/Najeeba-Qarqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer passionate about building responsive and interactive web applications using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- HTML5 | CSS3 | JavaScript (ES6)
+- Git & GitHub
+- GitHub Pages | Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Pokémon Search App (API-based)
+- Markdown Previewer
+- Cash Register App
+- Roman Numeral Converter
+- Telephone Number Validator
+- Personal Portfolio (HTML, CSS, JS)
+
+### 🌱 Currently Learning
+- Advanced JavaScript
+- Preparing for React
+
+📫 Check out my work:  
+🔗 https://najeeba-qarqin.github.io/Portfolio-JS/
